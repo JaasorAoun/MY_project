@@ -1,0 +1,23 @@
+div{
+font-size: 70px;
+color: cyan;
+width: 300px;
+height: 100px;
+
+position: absolute;
+}
+.one{
+background-color: sienna;
+top: 30px;
+left: 30px;
+z-index: 100;
+}
+.Two{
+background-color: slateblue;
+top: 40px;
+left: 40px;
+}
+.Three{
+background-color: rgb(255, 8, 0);
+
+}
